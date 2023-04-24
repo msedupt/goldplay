@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'goldplayregular';
-    src: url('goldplay-regular-webfont.woff2') format('woff2'),
-         url('goldplay-regular-webfont.woff') format('woff');
+    src: url('goldplay-regular-webfont.woff2?raw=true') format('woff2'),
+         url('goldplay-regular-webfont.woff?raw=true') format('woff');
     font-weight: normal;
     font-style: normal;
 
